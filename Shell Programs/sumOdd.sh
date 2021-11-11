@@ -8,5 +8,5 @@ while [ $i -le $n ]
 		sum=$(( sum + i ))
 		i=$(( i + 2 ))
 	done
-echo "Sum of Even number:"	
+echo "Sum of odd number:"	
 echo $sum
