@@ -1,4 +1,4 @@
-echo "Enter 5 subject marks" 
+echo "Enter number subject marks" 
 read n
 sum=0
 x=0
